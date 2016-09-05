@@ -1,0 +1,7 @@
+{
+  "name": "module_1",
+  "version": "1.0.0",
+  "scripts": {
+    "transpile": "tsc -p ts"
+  }
+}
